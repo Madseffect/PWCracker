@@ -1,0 +1,8 @@
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CracKINGServer\CracKINGServer\bin\Debug\CracKINGServer.exe.config
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CracKINGServer\CracKINGServer\bin\Debug\CracKINGServer.exe
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CracKINGServer\CracKINGServer\bin\Debug\CracKINGServer.pdb
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CracKINGServer\CracKINGServer\obj\Debug\CracKINGServer.csprojResolveAssemblyReference.cache
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CracKINGServer\CracKINGServer\obj\Debug\CracKINGServer.exe
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CracKINGServer\CracKINGServer\obj\Debug\CracKINGServer.pdb
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CracKINGServer\CracKINGServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CracKINGServer\CracKINGServer\bin\Debug\Newtonsoft.Json.xml

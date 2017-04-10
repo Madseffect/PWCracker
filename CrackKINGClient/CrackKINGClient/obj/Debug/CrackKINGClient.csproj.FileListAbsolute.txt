@@ -1,0 +1,8 @@
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CrackKINGClient\CrackKINGClient\bin\Debug\CrackKINGClient.exe.config
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CrackKINGClient\CrackKINGClient\bin\Debug\CrackKINGClient.exe
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CrackKINGClient\CrackKINGClient\bin\Debug\CrackKINGClient.pdb
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CrackKINGClient\CrackKINGClient\obj\Debug\CrackKINGClient.exe
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CrackKINGClient\CrackKINGClient\obj\Debug\CrackKINGClient.pdb
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CrackKINGClient\CrackKINGClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CrackKINGClient\CrackKINGClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thema\Desktop\Skole\Security\SecOpgave\CrackKINGClient\CrackKINGClient\obj\Debug\CrackKINGClient.csprojResolveAssemblyReference.cache
